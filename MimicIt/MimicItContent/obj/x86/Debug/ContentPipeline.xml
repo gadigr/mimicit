@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Buttons\practice.png</Source>
+      <Name>Images\Buttons\practice</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Images\Buttons\practice.xnb</Output>
+      <Time>2013-08-03T23:24:54.3778717+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Font.png</Source>
+      <Name>Fonts\Font</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Fonts\Font.xnb</Output>
+      <Time>2013-08-03T12:55:15.3290592+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\BackCloud.png</Source>
+      <Name>Images\BackCloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Images\BackCloud.xnb</Output>
+      <Time>2013-08-03T13:37:17.2061811+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MenuBackground.png</Source>
+      <Name>Images\MenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Images\MenuBackground.xnb</Output>
+      <Time>2013-08-03T13:37:17.2091809+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\X.png</Source>
+      <Name>Images\Buttons\X</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Images\Buttons\X.xnb</Output>
+      <Time>2013-08-03T23:13:22.6005611+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\TimeAttack.png</Source>
+      <Name>Images\Buttons\TimeAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Images\Buttons\TimeAttack.xnb</Output>
+      <Time>2013-08-03T23:34:58.8223119+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\survival.png</Source>
+      <Name>Images\Buttons\survival</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Images\Buttons\survival.xnb</Output>
+      <Time>2013-08-04T21:55:26.1212921+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\title.png</Source>
+      <Name>Images\title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Images\title.xnb</Output>
+      <Time>2013-08-05T22:25:55.1431988+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\title2.png</Source>
+      <Name>Images\title2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Images\title2.xnb</Output>
+      <Time>2013-08-06T19:58:45.4084606+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\fCountdown.png</Source>
+      <Name>Fonts\fCountdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Fonts\fCountdown.xnb</Output>
+      <Time>2013-08-06T21:02:21.0579366+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\down.png</Source>
+      <Name>Images\down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Images\down.xnb</Output>
+      <Time>2013-08-06T22:17:50.6983099+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\left.png</Source>
+      <Name>Images\left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Images\left.xnb</Output>
+      <Time>2013-08-06T22:17:50.7233276+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\peace.png</Source>
+      <Name>Images\peace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Images\peace.xnb</Output>
+      <Time>2013-08-06T22:17:50.7513745+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\right.png</Source>
+      <Name>Images\right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Images\right.xnb</Output>
+      <Time>2013-08-06T22:17:50.7733691+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\up.png</Source>
+      <Name>Images\up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Images\up.xnb</Output>
+      <Time>2013-08-06T22:17:50.7833972+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\fTime.png</Source>
+      <Name>Fonts\fTime</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Fonts\fTime.xnb</Output>
+      <Time>2013-08-06T23:42:58.5933815+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\fOpac.png</Source>
+      <Name>Fonts\fOpac</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\Fonts\fOpac.xnb</Output>
+      <Time>2013-08-07T00:22:52.0191683+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicItContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicItContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\user!\documents\visual studio 2010\Projects\MimicIt\MimicIt\MimicIt\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-07-29T23:46:51.2427542+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
